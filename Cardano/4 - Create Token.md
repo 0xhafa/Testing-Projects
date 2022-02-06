@@ -118,7 +118,7 @@ cardano-cli query utxo --address $address --testnet-magic 1097911063
 ```
 
 Your output should look something like this (fictional example):
-```json
+```
                            TxHash                                 TxIx        Amount
 --------------------------------------------------------------------------------------
 b35a4ba9ef3ce21adcd6879d08553642224304704d206c74d3ffb3e6eed3ca28     0        1000000000 lovelace
